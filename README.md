@@ -3,7 +3,9 @@ This project was bootstrapped with Create-React-App.
 Its a sample client for utilizing Quixel SSO API.
 
 ## How to run
-use `npm start` in the project root and it will kickstart an app at `http://localhost:3000`
+This will kickstart an app at `http://localhost:3000`
+- First install the packages: `npm install`
+- Run the application: `npm start`
 
 
 ## Ingredients
